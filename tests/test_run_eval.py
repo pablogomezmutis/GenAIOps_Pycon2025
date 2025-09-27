@@ -20,3 +20,4 @@ def test_relevancia_minima():
             assert promedio >= 0.8, f"Precisión insuficiente en {exp.name}: {promedio:.2f}"
         else:
             pytest.fail(f"No se encontraron métricas 'lc_is_correct' en {exp.name}")
+#nota
