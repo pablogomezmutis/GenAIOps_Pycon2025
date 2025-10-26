@@ -156,7 +156,7 @@ El dashboard de streamlit nos brinda una tabla con las distintas métricas obten
 
 <img width="1310" height="489" alt="Captura de pantalla 2025-10-25 a la(s) 10 23 33 p m" src="https://github.com/user-attachments/assets/88bb5622-ae59-472c-ab05-6b76d7b054c5" />
 
-Y nos muestra el valore promedio de cada métrica:
+Y nos muestra el valor promedio de cada métrica (y esta parte es interactiva pues te deja escoger los que tú quieras ver y comparar específicamente):
 
 <img width="1326" height="552" alt="Captura de pantalla 2025-10-25 a la(s) 10 24 03 p m" src="https://github.com/user-attachments/assets/7a87a3b1-cfd3-48d5-b48a-1cfe9590620e" />
 
