@@ -120,21 +120,36 @@ A continuación, se modifica también la función de dashboard para que se adapt
 Se realizaron los siguientes experimentos adicionales (algunos con respuestas no tan acertadas como las del primer ejemplo) para poder ver mejores comparaciones gráficas de las métricas de los distintos experimentos registrados en MLFlow:
 
 experimentos = [
+
     {
         "question": "¿Cuáles son los programas académicos principales que ofrece la Universidad EAFIT?",
+        
         "answer": "EAFIT ofrece programas en ingeniería, administración, humanidades, derecho y ciencias.",
+        
         "reference": "EAFIT brinda programas académicos en ingeniería, administración, humanidades y ciencias aplicadas."
+        
     },
+    
     {
+    
         "question": "¿Cuáles son los programas académicos principales que ofrece la Universidad EAFIT?",
+        
         "answer": "La universidad se dedica principalmente a la música y las artes escénicas.",
+        
         "reference": "EAFIT brinda programas académicos en ingeniería, administración, humanidades y ciencias aplicadas."
+        
     },
+    
     {
+    
         "question": "¿Cuáles son los programas académicos principales que ofrece la Universidad EAFIT?",
+        
         "answer": "EAFIT ofrece programas en ingeniería y administración, aunque también tiene algunas opciones en ciencias y humanidades.",
+        
         "reference": "EAFIT brinda programas académicos en ingeniería, administración, humanidades y ciencias aplicadas."
+        
     }
+    
 ]
 
 El dashboard de streamlit nos brinda una tabla con las distintas métricas obtenidas en los varios experimentos:
