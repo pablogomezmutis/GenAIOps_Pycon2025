@@ -43,19 +43,19 @@ Responde siempre de forma clara, formal y profesional.*
 
 Se modificó el JSON del conjunto de prueba por uno con 5 preguntas relativas a la información disponible de EAFIT en los PDFs cargados:
 
-- ¿Cuándo fue fundada la Universidad EAFIT y con qué propósito?
+- **¿Cuándo fue fundada la Universidad EAFIT y con qué propósito?**
 La Universidad EAFIT fue fundada en 1960 por un grupo de empresarios antioqueños con el propósito de formar profesionales competentes que respondieran a las necesidades del sector productivo.
 
-- ¿Cuántas escuelas tiene la Universidad EAFIT y cuáles son?
+- **¿Cuántas escuelas tiene la Universidad EAFIT y cuáles son?**
 EAFIT cuenta con cinco escuelas principales: Ingeniería, Finanzas, Economía y Gobierno, Ciencias, Derecho y Humanidades.
 
-- ¿Qué características hacen especial al campus de EAFIT?
+- **¿Qué características hacen especial al campus de EAFIT?**
 El campus de EAFIT se destaca por su diseño sostenible, sus amplias zonas verdes y su ambiente académico que promueve la cultura, el deporte y la vida universitaria activa.
 
-- ¿En qué áreas se enfoca la investigación en EAFIT?
+- **¿En qué áreas se enfoca la investigación en EAFIT?**
 EAFIT promueve la investigación en ciencia de datos, inteligencia artificial, sostenibilidad, medio ambiente e innovación tecnológica, impulsando proyectos en colaboración con la industria.
 
-- ¿Qué oportunidades internacionales ofrece la universidad a sus estudiantes?
+- **¿Qué oportunidades internacionales ofrece la universidad a sus estudiantes?**
 EAFIT ofrece programas de intercambio académico, dobles titulaciones y convenios con universidades de todo el mundo para fomentar la experiencia internacional de sus estudiantes.
 
 
