@@ -2,17 +2,21 @@
 
 **Integrantes**
 Yeniffer Andrea Córdoba
+
 Pablo Gómez
+
 Luz Adriana Yepes
 
 ## Nuevo dominio
 
 Para este proyecto decidimos construir un sistema RAG utilizando información relacionada con la Universidad EAFIT. Pensamos que desarrollar un modelo RAG con información real de la universidad podría ser un primer paso para en un futuro crear un chatbot inteligente que brinde apoyo tanto a estudiantes actuales como a futuros aspirantes sobre distintos elementos de la institución.
+
 La idea es que este chatbot pueda responder preguntas sobre programas académicos, horarios, estructura de la universidad, etc., de una manera conversacional.
 
 ## PDFs
 
 Para este primer prototipo del RAG, se reemplazaron los PDFs que había en el repositorio y se agregaron cinco nuevos PDFS con información de la universidad:
+
 - EAFIT: Historia y evolución – Explica el origen y crecimiento de la universidad desde su fundación hasta la actualidad.
 - Programas académicos y escuelas – Resume la oferta de programas y las principales escuelas académicas.
 - Campus y vida estudiantil – Describe el ambiente del campus y las actividades que enriquecen la experiencia universitaria.
