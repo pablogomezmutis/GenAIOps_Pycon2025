@@ -1,6 +1,7 @@
 # TAREA EXPERIENCIAS EN ANALÍTICA E INTELIGENCIA DE NEGOCIOS
 
 **Integrantes**
+
 Yeniffer Andrea Córdoba
 
 Pablo Gómez
