@@ -111,6 +111,7 @@ Que, a nuestro parecer, son métricas bastante buenas. Pues son altas en lo posi
 
 
 
+<img width="765" height="155" alt="Captura de pantalla 2025-10-25 a la(s) 9 44 03 p m" src="https://github.com/user-attachments/assets/40304461-9c9f-45ec-bb8b-81936d663c33" />
 
 
 
