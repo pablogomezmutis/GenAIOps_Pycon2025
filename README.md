@@ -113,6 +113,9 @@ Que, a nuestro parecer, son métricas bastante buenas. Pues son altas en lo posi
 
 <img width="765" height="155" alt="Captura de pantalla 2025-10-25 a la(s) 9 44 03 p m" src="https://github.com/user-attachments/assets/40304461-9c9f-45ec-bb8b-81936d663c33" />
 
+## Dashboard
+
+A continuación, se modifica también la función de dashboard para que se adapte mejor a las métricas que estamos haciendo. Esta función hace uso de **streamlit** para abrir en el navegador un dashboard completo que muestre las métricas de una forma más interactiva para el usuario.
 
 
 
