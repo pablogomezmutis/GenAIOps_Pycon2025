@@ -117,7 +117,33 @@ Que, a nuestro parecer, son métricas bastante buenas. Pues son altas en lo posi
 
 A continuación, se modifica también la función de dashboard para que se adapte mejor a las métricas que estamos haciendo. Esta función hace uso de **streamlit** para abrir en el navegador un dashboard completo que muestre las métricas de una forma más interactiva para el usuario.
 
+Se realizaron los siguientes experimentos adicionales (algunos con respuestas no tan acertadas como las del primer ejemplo) para poder ver mejores comparaciones gráficas de las métricas de los distintos experimentos registrados en MLFlow:
 
+experimentos = [
+    {
+        "question": "¿Cuáles son los programas académicos principales que ofrece la Universidad EAFIT?",
+        "answer": "EAFIT ofrece programas en ingeniería, administración, humanidades, derecho y ciencias.",
+        "reference": "EAFIT brinda programas académicos en ingeniería, administración, humanidades y ciencias aplicadas."
+    },
+    {
+        "question": "¿Cuáles son los programas académicos principales que ofrece la Universidad EAFIT?",
+        "answer": "La universidad se dedica principalmente a la música y las artes escénicas.",
+        "reference": "EAFIT brinda programas académicos en ingeniería, administración, humanidades y ciencias aplicadas."
+    },
+    {
+        "question": "¿Cuáles son los programas académicos principales que ofrece la Universidad EAFIT?",
+        "answer": "EAFIT ofrece programas en ingeniería y administración, aunque también tiene algunas opciones en ciencias y humanidades.",
+        "reference": "EAFIT brinda programas académicos en ingeniería, administración, humanidades y ciencias aplicadas."
+    }
+]
+
+El dashboard de streamlit nos brinda una tabla con las distintas métricas obtenidas en los varios experimentos:
+
+<img width="1310" height="489" alt="Captura de pantalla 2025-10-25 a la(s) 10 23 33 p m" src="https://github.com/user-attachments/assets/88bb5622-ae59-472c-ab05-6b76d7b054c5" />
+
+Y nos muestra el valore promedio de cada métrica:
+
+<img width="1326" height="552" alt="Captura de pantalla 2025-10-25 a la(s) 10 24 03 p m" src="https://github.com/user-attachments/assets/7a87a3b1-cfd3-48d5-b48a-1cfe9590620e" />
 
 
 # 🤖 Chatbot GenAI - Caso de Estudio Recursos Humanos
