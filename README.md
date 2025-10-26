@@ -8,7 +8,7 @@ Pablo Gómez
 
 Luz Adriana Yepes
 
-**Hola, profesora. Con este READ ME buscamos que le sea más fácil ver los pasos que realizamos para estructurar nuestro RAG. Si entra a los distintos archivos del repositorio, podrá ver que están ya actualizados acorde a nuestro nuevo dominio (los PDFs en "data", los prompts, el conjunto de prueba, la función de evaluación, etc.). Sin embargo, aquí hicimos una descripción más detallada y en el orden adecuado de las tareas realizadas para que pueda entender mejor las modificaciones presentes en el repositorio. ¡Muchas gracias!**
+Hola, profesora. Con este **READ ME** buscamos que le sea más fácil ver los pasos que realizamos para estructurar nuestro RAG. Si entra a los distintos archivos del repositorio, podrá ver que están ya actualizados acorde a nuestro nuevo dominio (los PDFs en "data", los prompts, el conjunto de prueba, la función de evaluación, etc.). Sin embargo, aquí hicimos una descripción más detallada y en el orden adecuado de las tareas realizadas para que pueda entender mejor las modificaciones presentes en el repositorio. ¡Muchas gracias!
 
 
 ## Nuevo dominio
